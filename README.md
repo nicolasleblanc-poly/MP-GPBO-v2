@@ -15,3 +15,5 @@ The benchmarks I added are:
 - SMAC, a hyperparameter tuning library that is compatible with discrete domains: https://github.com/automl/SMAC3
 
 - Optuna, a hyperparameter tuning library that is compatible with discrete domains: https://github.com/optuna/optuna
+
+My Python version is 3.11.9
