@@ -1,0 +1,1 @@
+{"name": null, "hyperparameters": [{"type": "uniform_int", "name": "myint", "lower": 0, "upper": 4095, "default_value": 2048, "log": false, "meta": null}], "conditions": [], "forbiddens": [], "python_module_version": "1.2.0", "format_version": 0.4}

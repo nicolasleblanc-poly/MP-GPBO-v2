@@ -1,0 +1,1749 @@
+{
+  "stats": {
+    "submitted": 100,
+    "finished": 100,
+    "running": 0
+  },
+  "data": [
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.0,
+      "status": 2,
+      "starttime": 1752085897.7625403,
+      "endtime": 1752085897.7645452,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.015625,
+      "status": 2,
+      "starttime": 1752085897.7692912,
+      "endtime": 1752085897.7702868,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 2,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.015625,
+      "status": 2,
+      "starttime": 1752085897.7733037,
+      "endtime": 1752085897.775307,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 2,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.015625,
+      "status": 2,
+      "starttime": 1752085897.7788117,
+      "endtime": 1752085897.780889,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.03125,
+      "status": 2,
+      "starttime": 1752085897.7843974,
+      "endtime": 1752085897.7854524,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 3,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.03125,
+      "status": 2,
+      "starttime": 1752085897.7900555,
+      "endtime": 1752085897.7900555,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 3,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.03125,
+      "status": 2,
+      "starttime": 1752085897.7945304,
+      "endtime": 1752085897.7945304,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 3,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.046875,
+      "status": 2,
+      "starttime": 1752085897.7985775,
+      "endtime": 1752085897.79909,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 4,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.046875,
+      "status": 2,
+      "starttime": 1752085897.8030925,
+      "endtime": 1752085897.804092,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 4,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.046875,
+      "status": 2,
+      "starttime": 1752085897.8089635,
+      "endtime": 1752085897.8099778,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 4,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.0625,
+      "status": 2,
+      "starttime": 1752085897.8129692,
+      "endtime": 1752085897.8139756,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 5,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.0625,
+      "status": 2,
+      "starttime": 1752085897.8169641,
+      "endtime": 1752085897.8169641,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 5,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.0625,
+      "status": 2,
+      "starttime": 1752085897.8215349,
+      "endtime": 1752085897.8226416,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 5,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.078125,
+      "status": 2,
+      "starttime": 1752085897.8311822,
+      "endtime": 1752085897.8331811,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 6,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.078125,
+      "status": 2,
+      "starttime": 1752085897.8407342,
+      "endtime": 1752085897.8419645,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 6,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.09375,
+      "status": 2,
+      "starttime": 1752085897.84598,
+      "endtime": 1752085897.8473227,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 6,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.09375,
+      "status": 2,
+      "starttime": 1752085897.8520658,
+      "endtime": 1752085897.8544726,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 7,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.109375,
+      "status": 2,
+      "starttime": 1752085897.8617303,
+      "endtime": 1752085897.8617303,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 7,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.109375,
+      "status": 2,
+      "starttime": 1752085897.8657334,
+      "endtime": 1752085897.8667357,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 7,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.125,
+      "status": 2,
+      "starttime": 1752085897.8754287,
+      "endtime": 1752085897.8764298,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 8,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.125,
+      "status": 2,
+      "starttime": 1752085897.8829412,
+      "endtime": 1752085897.884449,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 8,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.125,
+      "status": 2,
+      "starttime": 1752085897.890219,
+      "endtime": 1752085897.8914585,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 8,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.140625,
+      "status": 2,
+      "starttime": 1752085897.8969502,
+      "endtime": 1752085897.8969502,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 9,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.140625,
+      "status": 2,
+      "starttime": 1752085897.903755,
+      "endtime": 1752085897.9047537,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 9,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.15625,
+      "status": 2,
+      "starttime": 1752085897.9095073,
+      "endtime": 1752085897.910516,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 9,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.15625,
+      "status": 2,
+      "starttime": 1752085897.9146395,
+      "endtime": 1752085897.915637,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 10,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.15625,
+      "status": 2,
+      "starttime": 1752085897.9214637,
+      "endtime": 1752085897.9224615,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 10,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.171875,
+      "status": 2,
+      "starttime": 1752085897.9264574,
+      "endtime": 1752085897.927456,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 10,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.171875,
+      "status": 2,
+      "starttime": 1752085897.9310234,
+      "endtime": 1752085897.9324944,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 11,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.546875,
+      "status": 2,
+      "starttime": 1752085898.306765,
+      "endtime": 1752085898.3082886,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 11,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.5625,
+      "status": 2,
+      "starttime": 1752085898.3123403,
+      "endtime": 1752085898.313773,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 11,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.5625,
+      "status": 2,
+      "starttime": 1752085898.3186834,
+      "endtime": 1752085898.319695,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 12,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.5625,
+      "status": 2,
+      "starttime": 1752085898.3251796,
+      "endtime": 1752085898.3261788,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 12,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.578125,
+      "status": 2,
+      "starttime": 1752085898.330856,
+      "endtime": 1752085898.3313622,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 12,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.578125,
+      "status": 2,
+      "starttime": 1752085898.3367417,
+      "endtime": 1752085898.3367417,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 13,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.578125,
+      "status": 2,
+      "starttime": 1752085898.3437817,
+      "endtime": 1752085898.3448157,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 13,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.59375,
+      "status": 2,
+      "starttime": 1752085898.3497925,
+      "endtime": 1752085898.3497925,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 13,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.59375,
+      "status": 2,
+      "starttime": 1752085898.3560133,
+      "endtime": 1752085898.35701,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 14,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.609375,
+      "status": 2,
+      "starttime": 1752085898.3625786,
+      "endtime": 1752085898.3625786,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 14,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.609375,
+      "status": 2,
+      "starttime": 1752085898.3683171,
+      "endtime": 1752085898.3683171,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 14,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.609375,
+      "status": 2,
+      "starttime": 1752085898.3732004,
+      "endtime": 1752085898.3746061,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 15,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.625,
+      "status": 2,
+      "starttime": 1752085898.3802972,
+      "endtime": 1752085898.3812973,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 15,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.625,
+      "status": 2,
+      "starttime": 1752085898.385808,
+      "endtime": 1752085898.3868115,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 15,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.640625,
+      "status": 2,
+      "starttime": 1752085898.3926928,
+      "endtime": 1752085898.3936927,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 16,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.640625,
+      "status": 2,
+      "starttime": 1752085898.4015634,
+      "endtime": 1752085898.4035604,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 16,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.65625,
+      "status": 2,
+      "starttime": 1752085898.412676,
+      "endtime": 1752085898.4138348,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 16,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.671875,
+      "status": 2,
+      "starttime": 1752085898.422383,
+      "endtime": 1752085898.4233863,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 17,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.671875,
+      "status": 2,
+      "starttime": 1752085898.4338243,
+      "endtime": 1752085898.434824,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 17,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.6875,
+      "status": 2,
+      "starttime": 1752085898.443735,
+      "endtime": 1752085898.444736,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 17,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.6875,
+      "status": 2,
+      "starttime": 1752085898.4529796,
+      "endtime": 1752085898.4542615,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 18,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.703125,
+      "status": 2,
+      "starttime": 1752085898.4640384,
+      "endtime": 1752085898.4650416,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 18,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.71875,
+      "status": 2,
+      "starttime": 1752085898.4745617,
+      "endtime": 1752085898.4745617,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 18,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 58.71875,
+      "status": 2,
+      "starttime": 1752085898.4818845,
+      "endtime": 1752085898.482997,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 19,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.25,
+      "status": 2,
+      "starttime": 1752085898.9933364,
+      "endtime": 1752085898.9943354,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 19,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.25,
+      "status": 2,
+      "starttime": 1752085898.9997976,
+      "endtime": 1752085899.0008407,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 19,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.265625,
+      "status": 2,
+      "starttime": 1752085899.0071414,
+      "endtime": 1752085899.0081093,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 20,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.265625,
+      "status": 2,
+      "starttime": 1752085899.0149996,
+      "endtime": 1752085899.0160017,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 20,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.28125,
+      "status": 2,
+      "starttime": 1752085899.024777,
+      "endtime": 1752085899.0257757,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 20,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.296875,
+      "status": 2,
+      "starttime": 1752085899.0326197,
+      "endtime": 1752085899.0326197,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 21,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.296875,
+      "status": 2,
+      "starttime": 1752085899.0397317,
+      "endtime": 1752085899.0411396,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 21,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.3125,
+      "status": 2,
+      "starttime": 1752085899.0484474,
+      "endtime": 1752085899.0489588,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 21,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.3125,
+      "status": 2,
+      "starttime": 1752085899.0581768,
+      "endtime": 1752085899.0602117,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 22,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.328125,
+      "status": 2,
+      "starttime": 1752085899.0681813,
+      "endtime": 1752085899.0686853,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 22,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.328125,
+      "status": 2,
+      "starttime": 1752085899.077297,
+      "endtime": 1752085899.0783029,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 22,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.34375,
+      "status": 2,
+      "starttime": 1752085899.0840607,
+      "endtime": 1752085899.0855672,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 23,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.34375,
+      "status": 2,
+      "starttime": 1752085899.0933764,
+      "endtime": 1752085899.0943897,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 23,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.359375,
+      "status": 2,
+      "starttime": 1752085899.0995798,
+      "endtime": 1752085899.1008663,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 23,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.359375,
+      "status": 2,
+      "starttime": 1752085899.109506,
+      "endtime": 1752085899.1105146,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 24,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.375,
+      "status": 2,
+      "starttime": 1752085899.1166008,
+      "endtime": 1752085899.1183085,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 24,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.390625,
+      "status": 2,
+      "starttime": 1752085899.1253593,
+      "endtime": 1752085899.1263592,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 24,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.390625,
+      "status": 2,
+      "starttime": 1752085899.1327305,
+      "endtime": 1752085899.133727,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 25,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.40625,
+      "status": 2,
+      "starttime": 1752085899.1425297,
+      "endtime": 1752085899.143553,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 25,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.40625,
+      "status": 2,
+      "starttime": 1752085899.148552,
+      "endtime": 1752085899.1495724,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 25,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.421875,
+      "status": 2,
+      "starttime": 1752085899.1567554,
+      "endtime": 1752085899.1582723,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 26,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.421875,
+      "status": 2,
+      "starttime": 1752085899.1646366,
+      "endtime": 1752085899.1660824,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 26,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.4375,
+      "status": 2,
+      "starttime": 1752085899.1736143,
+      "endtime": 1752085899.174634,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 26,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 59.4375,
+      "status": 2,
+      "starttime": 1752085899.1810803,
+      "endtime": 1752085899.1820943,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 27,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.0625,
+      "status": 2,
+      "starttime": 1752085899.8069098,
+      "endtime": 1752085899.8094208,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 27,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.078125,
+      "status": 2,
+      "starttime": 1752085899.8151836,
+      "endtime": 1752085899.816682,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 27,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.078125,
+      "status": 2,
+      "starttime": 1752085899.8254595,
+      "endtime": 1752085899.8264513,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 28,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.09375,
+      "status": 2,
+      "starttime": 1752085899.8345945,
+      "endtime": 1752085899.8355937,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 28,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.109375,
+      "status": 2,
+      "starttime": 1752085899.8441384,
+      "endtime": 1752085899.8465567,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 28,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.109375,
+      "status": 2,
+      "starttime": 1752085899.8548017,
+      "endtime": 1752085899.8558016,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 29,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.125,
+      "status": 2,
+      "starttime": 1752085899.8670917,
+      "endtime": 1752085899.8670917,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 29,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.140625,
+      "status": 2,
+      "starttime": 1752085899.876176,
+      "endtime": 1752085899.8771734,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 29,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.140625,
+      "status": 2,
+      "starttime": 1752085899.8835328,
+      "endtime": 1752085899.8848386,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 30,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.15625,
+      "status": 2,
+      "starttime": 1752085899.8934126,
+      "endtime": 1752085899.8944128,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 30,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.15625,
+      "status": 2,
+      "starttime": 1752085899.9027212,
+      "endtime": 1752085899.9036787,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 30,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.171875,
+      "status": 2,
+      "starttime": 1752085899.912271,
+      "endtime": 1752085899.913235,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 31,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.1875,
+      "status": 2,
+      "starttime": 1752085899.922398,
+      "endtime": 1752085899.922398,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 31,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.1875,
+      "status": 2,
+      "starttime": 1752085899.9299276,
+      "endtime": 1752085899.9312673,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 31,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.203125,
+      "status": 2,
+      "starttime": 1752085899.9382784,
+      "endtime": 1752085899.939303,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 32,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.203125,
+      "status": 2,
+      "starttime": 1752085899.9470227,
+      "endtime": 1752085899.9485362,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 32,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.21875,
+      "status": 2,
+      "starttime": 1752085899.9557748,
+      "endtime": 1752085899.956763,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 32,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.21875,
+      "status": 2,
+      "starttime": 1752085899.964441,
+      "endtime": 1752085899.964441,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 33,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.234375,
+      "status": 2,
+      "starttime": 1752085899.9743996,
+      "endtime": 1752085899.9753995,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 33,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.234375,
+      "status": 2,
+      "starttime": 1752085899.982246,
+      "endtime": 1752085899.9835942,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 33,
+      "instance": null,
+      "seed": 924231285,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.25,
+      "status": 2,
+      "starttime": 1752085899.9929273,
+      "endtime": 1752085899.9939353,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 34,
+      "instance": null,
+      "seed": 209652396,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.265625,
+      "status": 2,
+      "starttime": 1752085900.001563,
+      "endtime": 1752085900.001563,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    },
+    {
+      "config_id": 34,
+      "instance": null,
+      "seed": 398764591,
+      "budget": null,
+      "cost": Infinity,
+      "time": 0.0,
+      "cpu_time": 60.265625,
+      "status": 2,
+      "starttime": 1752085900.008929,
+      "endtime": 1752085900.0099485,
+      "additional_info": {
+        "traceback": "Traceback (most recent call last):\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 190, in run\n    rval = self(config_copy, target_function, kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\smac\\runner\\target_function_runner.py\", line 264, in __call__\n    return algorithm(config, **algorithm_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\nicle\\AppData\\Local\\Temp\\ipykernel_2784\\3329812169.py\", line 21, in smac_objective\n    index = config[f\"x\"]\n            ~~~~~~^^^^^^\n  File \"c:\\Users\\nicle\\anaconda3\\Lib\\site-packages\\ConfigSpace\\configuration.py\", line 217, in __getitem__\n    raise KeyError(key)\nKeyError: 'x'\n",
+        "error": "KeyError('x')"
+      }
+    }
+  ],
+  "configs": {
+    "1": {
+      "myint": 1093
+    },
+    "2": {
+      "myint": 2932
+    },
+    "3": {
+      "myint": 3425
+    },
+    "4": {
+      "myint": 593
+    },
+    "5": {
+      "myint": 404
+    },
+    "6": {
+      "myint": 3748
+    },
+    "7": {
+      "myint": 2224
+    },
+    "8": {
+      "myint": 1921
+    },
+    "9": {
+      "myint": 1676
+    },
+    "10": {
+      "myint": 2492
+    },
+    "11": {
+      "myint": 150
+    },
+    "12": {
+      "myint": 19
+    },
+    "13": {
+      "myint": 46
+    },
+    "14": {
+      "myint": 58
+    },
+    "15": {
+      "myint": 1911
+    },
+    "16": {
+      "myint": 93
+    },
+    "17": {
+      "myint": 1510
+    },
+    "18": {
+      "myint": 1654
+    },
+    "19": {
+      "myint": 45
+    },
+    "20": {
+      "myint": 86
+    },
+    "21": {
+      "myint": 428
+    },
+    "22": {
+      "myint": 818
+    },
+    "23": {
+      "myint": 28
+    },
+    "24": {
+      "myint": 3484
+    },
+    "25": {
+      "myint": 1538
+    },
+    "26": {
+      "myint": 2375
+    },
+    "27": {
+      "myint": 2
+    },
+    "28": {
+      "myint": 42
+    },
+    "29": {
+      "myint": 1112
+    },
+    "30": {
+      "myint": 97
+    },
+    "31": {
+      "myint": 634
+    },
+    "32": {
+      "myint": 1445
+    },
+    "33": {
+      "myint": 2043
+    },
+    "34": {
+      "myint": 136
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Initial Design: Sobol",
+    "3": "Initial Design: Sobol",
+    "4": "Initial Design: Sobol",
+    "5": "Initial Design: Sobol",
+    "6": "Initial Design: Sobol",
+    "7": "Initial Design: Sobol",
+    "8": "Initial Design: Sobol",
+    "9": "Initial Design: Sobol",
+    "10": "Initial Design: Sobol",
+    "11": "Acquisition Function Maximizer: Local Search",
+    "12": "Acquisition Function Maximizer: Local Search",
+    "13": "Acquisition Function Maximizer: Local Search",
+    "14": "Acquisition Function Maximizer: Local Search",
+    "15": "Acquisition Function Maximizer: Local Search",
+    "16": "Acquisition Function Maximizer: Local Search",
+    "17": "Acquisition Function Maximizer: Local Search",
+    "18": "Acquisition Function Maximizer: Local Search",
+    "19": "Acquisition Function Maximizer: Local Search",
+    "20": "Acquisition Function Maximizer: Local Search",
+    "21": "Acquisition Function Maximizer: Local Search",
+    "22": "Acquisition Function Maximizer: Local Search",
+    "23": "Acquisition Function Maximizer: Local Search",
+    "24": "Random Search",
+    "25": "Random Search",
+    "26": "Random Search",
+    "27": "Acquisition Function Maximizer: Local Search",
+    "28": "Acquisition Function Maximizer: Local Search",
+    "29": "Acquisition Function Maximizer: Local Search",
+    "30": "Acquisition Function Maximizer: Local Search",
+    "31": "Acquisition Function Maximizer: Local Search",
+    "32": "Acquisition Function Maximizer: Local Search",
+    "33": "Random Search",
+    "34": "Acquisition Function Maximizer: Local Search"
+  }
+}
