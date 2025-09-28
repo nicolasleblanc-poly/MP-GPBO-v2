@@ -1,3 +1,5 @@
+Here's Maxime's original GitHub: https://github.com/MoutetMaxime/mpbo
+
 I modified the code for both the synthetic problems and the neurostimulation ones.
 - The file Experiment_benchmarks_NL_Feb26.ipynb is used to run the synthetic problems.
 - The file neurostim.ipynb is used to run on the neurostimulation data. This file uses BO_WITHExtensiveSearch.py, which is identical to BO.py, except that I have added extensive search functionality. I wanted to keep the BO files separate between the two problems.
